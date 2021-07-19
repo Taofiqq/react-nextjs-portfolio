@@ -49,15 +49,15 @@ const Header = () =>  (
     {/* start of div 3 */}
     <Div3>
       <SocialIcons href="https://github.com/Taofiqq" target="_blank">
-        <AiFillGithub size="3rem"/>
+        <AiFillGithub size="1.7rem"/>
       </SocialIcons>
       
       <SocialIcons href="https://twitter.com/Taofiq__" target="_blank">
-        <AiFillTwitterCircle size="3rem"/>
+        <AiFillTwitterCircle size="1.7remrem"/>
       </SocialIcons>
 
       <SocialIcons href="https://www.linkedin.com/in/taofiq-aiyelabegan-6241a1139/" target="_blank">
-        <AiFillLinkedin size="3rem"/>
+        <AiFillLinkedin size="1.7rem"/>
       </SocialIcons>
 
     </Div3>
