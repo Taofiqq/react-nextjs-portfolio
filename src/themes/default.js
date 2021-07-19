@@ -1,8 +1,8 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "Montserrat, sans-serif",
-    main: "Work-Sans, sans-serif"
+    title: "Work Sans, sans-serif",
+    main: "Work Sans, sans-serif"
   },
   // Colors for layout
   colors: {
