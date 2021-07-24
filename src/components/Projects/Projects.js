@@ -5,33 +5,6 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 
 
-// const projectsList = [{
-//   title: "This is a search movie and actor app", 
-//   description:" This is a long description"
-// }, 
-// {
-//   title: "This is a search movie and actor app", 
-//   description:" This is a long description"
-// }, 
-// {
-//   title: "This is a search movie and actor app", 
-//   description:" This is a long description"
-// }, 
-// {
-//   title: "This is a search movie and actor app", 
-//   description:" This is a long description"
-// }, 
-// {
-//   title: "This is a search movie and actor app", 
-//   description:" This is a long description"
-// }, 
-// {
-//   title: "This is a search movie and actor app", 
-//   description:" This is a long description"
-// }, 
-
-
-// ]
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
@@ -55,8 +28,8 @@ const Projects = () => (
            </div>
 
            <UtilityList>
-             <ExternalLinks href={visit}>Code</ExternalLinks>
-             <ExternalLinks href={source}>Source</ExternalLinks>
+             <ExternalLinks href={visit}>Live Demo</ExternalLinks>
+             <ExternalLinks href={source}>Source Code</ExternalLinks>
            </UtilityList>
          </BlogCard>
       ))}
