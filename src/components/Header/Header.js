@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillTwitterCircle, AiFillLinkedin } from 'react-icons/ai';
-import { DiReact } from 'react-icons/di';
+import { SiNextDotJs } from "react-icons/si";
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 
@@ -16,7 +16,7 @@ const Header = () =>  (
         color: "white", 
         marginBottom: "20px"
       }}>
-      <DiReact size="3rem" />
+      <SiNextDotJs size="3rem" />
         <Span>Portfolio</Span>
       </a>
       </Link>
