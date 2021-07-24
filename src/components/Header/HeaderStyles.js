@@ -19,7 +19,7 @@ export const Container = styled.div`
 `;
 
 export const Span = styled.span`
-    font-size:2rem;
+    font-size:1.5rem;
 
 
 
@@ -39,7 +39,7 @@ export const Div2 = styled.div`
   justify-content: space-around;
   font-family:"Work Sans", sans-serif;
   @media ${(props) => props.theme.breakpoints.sm} {
-    grid-area: 2 / 2 / 3 / -1;
+    grid-area: 2 / 1 / 3 / -1;
   }
 `;
 export const Div3 = styled.div`
@@ -49,7 +49,8 @@ export const Div3 = styled.div`
   align-items: center;
   @media ${(props) => props.theme.breakpoints.sm} {
     align-items: center;
-    grid-area: 1 / 4 / 2 / 6;
+    margin-top: -2rem; 
+    grid-area: 1 / 3 / 2 / 6;
   }
 `;
 

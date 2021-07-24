@@ -12,6 +12,7 @@ const Footer = () => {
       
         <LinkTitle>Contact:</LinkTitle>
         <LinkItem href="+601160842028">+601160842028</LinkItem>
+        <LinkItem href="+601160842028">+2348142986562</LinkItem>
 
         <LinkTitle>Email:</LinkTitle>
         <LinkItem href="mailto:taofiqaiyelabegan45@gmail.com">taofiqaiyelabegan45@gmail.com</LinkItem>
@@ -22,6 +23,7 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Bulding and Desgining Interfaces</Slogan>
+          <Slogan>Powered with NextJS and Styled-Components</Slogan>
         </CompanyContainer>
         <SocialContainer>
         <SocialIcons href="https://github.com/Taofiqq" target="_blank">

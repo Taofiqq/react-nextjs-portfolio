@@ -35,7 +35,7 @@ export const LinkItem = styled.a`
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
-		font-size: 8px;
+		font-size: 10px;
 		line-height: 14px;
 		margin-bottom: 8px;
 		display: flex;
@@ -95,9 +95,10 @@ export const Slogan = styled.p`
 	}
 
 	@media ${props => props.theme.breakpoints.sm}{
-		line-height: 22px;
-		font-size: 14px;
-		min-width: 100px;
+		line-height: 15px;
+		font-size: 12px;
+		min-width: 200px;
+		text-align: center;
 	}
 `
 
@@ -152,7 +153,7 @@ export const LinkTitle = styled.h4`
 	margin-bottom: 16px;
 
 	@media ${props => props.theme.breakpoints.sm} {
-		font-size: 10px;
+		font-size: 13px;
 		line-height: 12px;
 		margin-bottom: 8px;
 	}
