@@ -3,7 +3,7 @@ export const projects = [
     title: 'Covid19- World Tracker',
     description: "This is a COVID-19 Tracker app built using Reactjs and MaterialUI. The aim of this project is to enable everyone to be able to keep track of the covid situation ongoing throughout the world and be well infformed about the total, recovered and death cases.",
       image: '/images/1.jpg',
-      tags: ['Mongo', 'MaterialUI'],
+      tags: ['React', 'MaterialUI'],
       source: 'https://github.com/Taofiqq/covid-19-tracker',
       visit: 'https://covid-19-trackeer.netlify.app',
       id: 0,

@@ -22,7 +22,7 @@ const Footer = () => {
 
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Bulding and Desgining Interfaces</Slogan>
+          <Slogan>Building and Desgining Interfaces</Slogan>
           <Slogan>Powered with NextJS and Styled-Components</Slogan>
         </CompanyContainer>
         <SocialContainer>
