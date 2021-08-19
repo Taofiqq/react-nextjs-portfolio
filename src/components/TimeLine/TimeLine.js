@@ -46,7 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      I am a Freelance Front End Web Developer from Malaysia who enjoys working with clients who appreciate quality works and contribute to more transparent communications and a sense of purpose, which helps their businesses generate better team achievements and satisfaction.
+
+I specialize in designing and creating innovative, modern and responsive websites on mobile and desktop web interfaces. I am passionate about all things regarding JavaScript. I work hard on writing my codes, ensuring they are clean and well readable for building efficient websites. y technologies skills are: HTML, CSS, SASS, Tailwind, React, NodeJS, ExpressJs, Typescript and MongoDB. I also have experience working with git and GitHub.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

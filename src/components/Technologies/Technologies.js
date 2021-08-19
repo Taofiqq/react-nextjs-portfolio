@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
       <SectionTitle>My Skills</SectionTitle>
       <SectionText>
-        This is a lis tof all tech stack I have worked with during my front end developer
+        
       </SectionText>
       <List>
         {/* first list */}
@@ -17,7 +17,7 @@ const Technologies = () =>  (
           <DiNetbeans size="3rem" />
           <ListContainer>
             <ListTitle>Front End</ListTitle>
-            <ListParagraph>Experience with <br /> ReactJs</ListParagraph>
+            <ListParagraph>Experience with <br /> ReactJs and NextJs</ListParagraph>
           </ListContainer>
         </ListItem>
         {/* end of first list */}

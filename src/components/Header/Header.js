@@ -16,7 +16,7 @@ const Header = () =>  (
         color: "white", 
         marginBottom: "20px"
       }}>
-      <SiNextDotJs size="3rem" />
+      <SiNextDotJs size="1.5rem" />
         <Span>Portfolio</Span>
       </a>
       </Link>

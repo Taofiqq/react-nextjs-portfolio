@@ -4,6 +4,7 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
+
 const Hero = (props) => (
   <Section row no padding>
     <LeftSection>
@@ -12,9 +13,9 @@ const Hero = (props) => (
         a freelance Front End Developer based in Malaysia.
       </SectionTitle>
       <SectionText>
-        I develop user interfaces and single-page web applications.
+        I develop the user interfaces of the website and applications.
       </SectionText>
-      <Button onClick={() => window.location= "https://google.com"}>Scroll Down</Button>
+      {/* <Button>Resume</Button> */}
     </LeftSection>
   </Section>
 );
